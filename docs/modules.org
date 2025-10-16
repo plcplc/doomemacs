@@ -182,6 +182,7 @@ Small modules that give Emacs access to external tools & services.
 + [[file:../modules/tools/ein/README.org][ein]] - TODO
 + [[file:../modules/tools/eval/README.org][eval]] =+overlay= - REPL & code evaluation support for a variety of languages
 + gist - TODO
++ [[file:../modules/tools/llm/README.org][llm]] - Integration with ChatGPT, Anthropic Claude, etc. via gpt.el
 + [[file:../modules/tools/lookup/README.org][lookup]] =+dictionary +docsets +offline= - Universal jump-to & documentation lookup
   backend
 + [[file:../modules/tools/lsp/README.org][lsp]] =+peek +eglot= - Installation and configuration of language server protocol client (lsp-mode or eglot)
